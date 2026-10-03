@@ -10,6 +10,7 @@ The glyphs in FabricSymbols NF are based on the icon artwork below, which remain
 ## Microsoft Fluent UI System Icons
 
 - Semantic model tree and toolbar glyphs: [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons), Copyright (c) Microsoft Corporation, MIT
+- Power BI visual type glyphs: [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) ([`@fluentui/svg-icons`](https://www.npmjs.com/package/@fluentui/svg-icons) 1.1.343), Copyright (c) Microsoft Corporation, MIT; chart variants without a Fluent icon are drawn from Fluent chart icon geometry
 
 ## Other Microsoft product icons
 

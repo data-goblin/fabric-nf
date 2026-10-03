@@ -2,7 +2,7 @@
 
 A NerdFont that provides glyphs of the Fabric icons for use in terminal user interfaces. Each glyph is based on the original icon, and not repackaging or redistributing those icons.
 
-![All 863 glyphs](docs/glyphs.png)
+![All 907 glyphs](docs/glyphs.png)
 
 ## Install
 
@@ -10,7 +10,7 @@ A NerdFont that provides glyphs of the Fabric icons for use in terminal user int
 - **macOS:** copy it to `~/Library/Fonts/`
 - **Windows:** right-click it and choose Install for current user
 
-Restart the terminal afterwards. The glyphs sit at `U+F2000`-`U+F270D`; most terminals fall back to the font for these codepoints by themselves.
+Restart the terminal afterwards. The glyphs sit at `U+F2000`-`U+F282B`; most terminals fall back to the font for these codepoints by themselves.
 
 ## Sources
 
